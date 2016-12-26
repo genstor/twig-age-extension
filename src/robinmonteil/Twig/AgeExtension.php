@@ -1,9 +1,13 @@
 <?php
-namespace genstor\TwigExtension;
+namespace Genstor\Twig;
 use \DateTime;
 use \Twig_Extension;
 use \Twig_SimpleFilter;
 
+/**
+ * Class AgeExtension
+ * @package Genstor\Twig
+ */
 class AgeExtension extends Twig_Extension
 {
     /**

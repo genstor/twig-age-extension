@@ -12,7 +12,7 @@ Add the following to your services.yml file:
 ```yaml
 services:
     twig.extension.date:
-        class: genstor\Twig\AgeExtension
+        class: Genstor\Twig\AgeExtension
         tags:
             - { name: twig.extension }
 ```
