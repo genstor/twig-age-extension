@@ -1,5 +1,7 @@
 <?php
+
 namespace Genstor\Twig;
+
 use \DateTime;
 use \Twig_Extension;
 use \Twig_SimpleFilter;
