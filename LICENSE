@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) 2016 Gus
+Copyright (c) 2016 Gus, Robin Monteil
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -11,6 +11,8 @@ furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
+Copyright for portions of project genstor/twig-age-extension are held by Gus King, 2016 as part of project guzzlefry/twig-age-extension.
+All other copyright for project genstor/twig-age-extension are held by Robin Monteil, 2016.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,

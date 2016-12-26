@@ -1,19 +1,23 @@
 {
-  "name": "guzzlefry/twig-age-extension",
-  "description": "Simple Twig extension to calculate the age in years based on a DateTime instance",
-  "keywords": ["templating", "twig", "age", "date"],
+  "name": "genstor/twig-age-extension",
+  "description": "Simple Twig extension to calculate the age in years based on a DateTime instance or a simple string",
+  "keywords": ["templating", "twig", "extension", "age", "date"],
   "license": "MIT",
-  "homepage": "http://github.com/guzzlefry/twig-age-extension#README",
+  "homepage": "https://github.com/genstor/twig-age-extension",
   "authors": [
     {
       "name": "Gus King",
       "email": "gus@gusking.com",
       "homepage": "http://www.gusking.com"
+    },
+    {
+      "name": "Robin Monteil",
+      "homepage": "http://www.robinmonteil.fr"
     }
   ],
   "support": {
-    "issues": "https://github.com/guzzlefry/twig-age-extension/issues",
-    "source": "https://github.com/guzzlefry/twig-age-extension"
+    "issues": "https://github.com/genstor/twig-age-extension/issues",
+    "source": "https://github.com/genstor/twig-age-extension"
   },
   "require": {
     "twig/twig": ">=1.12",
@@ -21,7 +25,7 @@
   },
   "autoload": {
     "psr-0": {
-      "Guzzlefry\\Twig": "src/"
+      "genstor\\Twig": "src/"
     }
   }
 }
